@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Anastasia</h1>
-<h3 align="center">Junior Java and JavaScript programmer</h3>
+<h3 align="center">Junior Full-Stack Developer | Java | JavaScript </h3>
 
 - I’m currently learning **Spring, React**
 
