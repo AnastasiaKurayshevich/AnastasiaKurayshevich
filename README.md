@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Anastasia</h1>
 <h3 align="center">Junior Full-Stack Developer | Java | JavaScript </h3>
 
-- I’m currently learning **Spring, React**
+<!-- - I’m currently learning **Spring, React** --!>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
