@@ -8,6 +8,15 @@
 - 🧪 Thrive on test-driven development
 - 📚 Embrace continuous learning
 
+💻 **Some of my projects**
+
+- [**Lyrigator**](https://github.com/AnastasiaKurayshevich/nameless_lyrics_app)  
+*Full-stack AI-driven Lyric Generator App.*
+- [**EchoBoard**](https://github.com/Nameless-Devs/echoboard)  
+*Platform to share and solve problems within a workplace*
+- [**Quiz Game**](https://github.com/AnastasiaKurayshevich/quiz-app)  
+*Full stack quiz application created within Hack Day Challenge 
+
 
 🌟 **Tech Stack**
 
@@ -30,6 +39,11 @@
 
 
 👥 **Connect with me on** [LinkedIn](https://www.linkedin.com/in/anastasia-kurayshevich/)
+
+#
+
+
+Thanks for visiting my GitHub profile! 😊
 
 <!---
 AnastasiaKurayshevich/AnastasiaKurayshevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
