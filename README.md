@@ -1,5 +1,8 @@
-<h1 align="center">Hi there! I'm Anastasia</h1>
-<h3 align="center">Full-Stack Developer | Java | JavaScript | TypeScript </h3>
+<h1 align="center">Hi there!I'm Anastasia</h1>
+<h3 align="center">Full-Stack | Java | JavaScript | TypeScript </h3>
+
+![final](https://github.com/AnastasiaKurayshevich/AnastasiaKurayshevich/assets/125829513/8ff9a179-2130-4220-aaac-94fb3b2c060e)
+
 
 🚀 **About Me**
 - 💼 Currently working as a Full-Stack Developer at SALT 
