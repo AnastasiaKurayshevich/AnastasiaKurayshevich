@@ -17,8 +17,8 @@
 *Full-stack AI-driven Lyric Generator App*
 - [**EchoBoard**](https://github.com/Nameless-Devs/echoboard)  
 *Platform to share and solve problems within a workplace*
-- [**Quiz Game**](https://github.com/AnastasiaKurayshevich/quiz-app)  
-*Full stack quiz application created within Hack Day Challenge*
+- [**QuizMaster**](https://github.com/AnastasiaKurayshevich/quiz-app)  
+*Full stack quiz game application created within Hack Day Challenge*
 
 
 🌟 **Tech Stack**
