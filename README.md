@@ -5,7 +5,7 @@
 
 
 🚀 **About Me**
-- 💼 Currently working as a Full-Stack Developer at SALT 
+- 💼 Currently working as a Full-Stack Developer at Welcome Workdays AS 
 - 🔧 Experienced in Java, JavaScript, and TypeScript
 - 🌱 Expertise in frameworks like Spring and React
 - 🧪 Thrive on test-driven development
