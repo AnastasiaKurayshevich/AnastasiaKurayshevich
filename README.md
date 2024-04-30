@@ -11,16 +11,21 @@
 - 🧪 Thrive on test-driven development
 - 📚 Embrace continuous learning
 
+<!---
 💻 **Some of my projects**
 
 - [**EquityAI**](https://github.com/TuringCrafters/EquityAI)  
 *Predictive anomaly detection application designed to identify and address the discrepancies in payroll data*
 - [**EchoBoard**](https://github.com/Nameless-Devs/echoboard)  
 *Platform to share and solve problems within a workplace*
+--->
+
+<!---
 - [**Lyrigator**](https://github.com/AnastasiaKurayshevich/nameless_lyrics_app)  
 *Full stack AI-driven Lyric Generator App*
 - [**QuizMaster**](https://github.com/AnastasiaKurayshevich/quiz-app)  
 *Full stack quiz game application created within Hack Day Challenge*
+--->
 
 
 🌟 **Tech Stack**
@@ -64,10 +69,6 @@
 
 👥 **Connect with me on** [LinkedIn](https://www.linkedin.com/in/anastasia-kurayshevich/)
 
-#
-
-
-Thanks for visiting my GitHub profile! 😊
 
 <!---
 AnastasiaKurayshevich/AnastasiaKurayshevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
