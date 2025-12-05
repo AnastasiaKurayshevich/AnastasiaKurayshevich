@@ -1,15 +1,17 @@
-<h1 align="center">Hi there!I'm Anastasia</h1>
+<h1 align="center">Hi there! I'm Anastasia</h1>
 <h3 align="center">Full-Stack | Java | JavaScript | TypeScript </h3>
-
+<!---
 ![final](https://github.com/AnastasiaKurayshevich/AnastasiaKurayshevich/assets/125829513/8ff9a179-2130-4220-aaac-94fb3b2c060e)
+--->
 
-
+<!---
 🚀 **About Me**
 - 💼 Currently working as a Full-Stack Developer at Welcome Workdays AS 
 - 🔧 Experienced in Java, JavaScript, and TypeScript
 - 🌱 Expertise in frameworks like Spring and React
 - 🧪 Thrive on test-driven development
 - 📚 Embrace continuous learning
+--->
 
 <!---
 💻 **Some of my projects**
@@ -58,13 +60,13 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasiakurayshevich&" alt="anastasiakurayshevich" /></p>
 
 #
-
+<!---
 🌱 **Hobbies & Interests**
 - 🏺 Avid pottery enthusiast
 - 🍳 Passionate about healthy cooking
 - 🏀 Engaged in various sports and physical activities
 - 📚 Constantly seeking opportunities for personal development and growth
-
+--->
 
 
 👥 **Connect with me on** [LinkedIn](https://www.linkedin.com/in/anastasia-kurayshevich/)
