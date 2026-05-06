@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Anastasia</h1>
-<h3 align="center">Full-Stack | Java | JavaScript | TypeScript </h3>
+<h3 align="center">Full-Stack Developer | Java | JavaScript | TypeScript </h3>
 <!---
 ![final](https://github.com/AnastasiaKurayshevich/AnastasiaKurayshevich/assets/125829513/8ff9a179-2130-4220-aaac-94fb3b2c060e)
 --->
@@ -29,7 +29,7 @@
 *Full stack quiz game application created within Hack Day Challenge*
 --->
 
-
+<!---
 🌟 **Tech Stack**
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -52,10 +52,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   
-
-# 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anastasiakurayshevich&show_icons=true&locale=en&layout=compact" alt="anastasiakurayshevich" /></p>
+--->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anastasiakurayshevich&" alt="anastasiakurayshevich" /></p>
 
